@@ -1,5 +1,6 @@
 # Tic Tac Toe
 My first React project, simple tic tac toe.
+GitHub Pages: https://ajgonefishin.github.io/tictactoe/
 
 # Create React App
 

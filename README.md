@@ -1,5 +1,5 @@
 # Tic Tac Toe
-My first React project, simple tic tac toe.
+My first React project, simple tic tac toe. \n
 GitHub Pages: https://ajgonefishin.github.io/tictactoe/
 
 # Create React App
